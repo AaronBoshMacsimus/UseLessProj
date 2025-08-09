@@ -159,11 +159,14 @@ cd lightweight-shape-classifier
 **For Software:**
 
 #### Screenshots
-![Training Output](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/trainingoutput.png)
+![Training Output](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/trainingoutput.jpg)
 *Shows the training process with dataset loading and accuracy (e.g., 0.990 for 900 images).*
 
 ![Hardware Setup](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/snapshot.jpg)
 *Shows the physical setup with Arduino/microcontroller, breadboard connections, and LED components for the project.*
+
+![Dataset Folder](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/datasets.png)
+*Shows the cylinder dataset directory containing various image files including pixels_cylinder_shape, pixels_cylindrical_object, and synthetic_cylinder files used for training the model.*
 
 ![Initial State](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/reactwebbeforechangeinrequest.jpg)
 *Displays the web interface showing yellow circle and purple rectangle in their starting positions before collision detection.*
