@@ -160,7 +160,7 @@ cd lightweight-shape-classifier
 
 #### Screenshots
 ![Training Output](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/trainingoutput.png)
-*Shows the training process with dataset loading and accuracy (e.g., 0.850 for 900 images).*
+*Shows the training process with dataset loading and accuracy (e.g., 0.990 for 900 images).*
 
 ![Web Scene Replica](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/filedir1.jpg)
 *Displays the Flask web page rendering a scene with a cylinder model at detected (x,y) coordinates (rendering work in progress).*
@@ -178,18 +178,7 @@ cd lightweight-shape-classifier
 ![Circuit](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/UselessWrokImg.jpg)
 *Shows connections: Raspberry Pi Zero 2 W to Camera Module, L298N motor driver to DC motors, MPU-6050 IMU, and battery pack.*
 
-![Schematic](https://github.com/AaronBoshMacsimus/UseLessProj/schematic_diagram.png)
-*Schematic of the self-balancing robot with labeled components: Pi, camera, motors, IMU, and power supply.*
 
-#### Build Photos
-![Components](https://github.com/AaronBoshMacsimus/UseLessProj/components_photo.jpg)
-*Components shown: Raspberry Pi Zero 2 W, Pi Camera Module, L298N motor driver, MPU-6050 IMU, DC motors, battery pack, robot chassis.*
-
-![Build](https://github.com/AaronBoshMacsimus/UseLessProj/build_process.jpg)
-*Build steps: 1. Assemble chassis with motors. 2. Mount Pi and camera. 3. Connect IMU and motor driver. 4. Wire battery pack. 5. Test balance control.*
-
-![Final](https://github.com/AaronBoshMacsimus/UseLessProj/final_build.jpg)
-*Final build: Self-balancing robot with camera, ready to detect shapes and positions on the move.*
 
 ### Project Demo
 
