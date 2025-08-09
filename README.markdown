@@ -165,7 +165,7 @@ cd lightweight-shape-classifier
 ![Hardware Setup](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/snapshot.jpg)
 *Shows the physical setup with Arduino/microcontroller, breadboard connections, and LED components for the project.*
 
-![Dataset Folder](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/datasets.png)
+![Dataset Folder](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/datasets.jpg)
 *Shows the cylinder dataset directory containing various image files including pixels_cylinder_shape, pixels_cylindrical_object, and synthetic_cylinder files used for training the model.*
 
 ![Initial State](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/reactwebbeforechangeinrequest.jpg)
