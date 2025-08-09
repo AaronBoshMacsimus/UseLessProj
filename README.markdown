@@ -171,9 +171,6 @@ cd lightweight-shape-classifier
 ![Animation State](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/reactwebafterchangeinrequest.jpg)
 *Shows the animated state with purple rectangle moved to top-left and yellow circle repositioned during the interaction sequence.*
 
-#### Diagrams
-![Workflow](https://github.com/<your-username>/UseLessProj/blob/main/reactwebafterchangeinrequest.jpg)
-*Illustrates the pipeline: robot camera capture -> shape classification -> position detection -> web scene rendering with model folder.*
 
 **For Hardware:**
 
