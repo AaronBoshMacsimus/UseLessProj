@@ -181,7 +181,7 @@ cd lightweight-shape-classifier
 ### Project Demo
 
 #### Video
-[Demo Video Link](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/raspberry pi ai demo.mp4)
+[Demo Video Link](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/rasberry%20pi%20ai%20demo.mp4)
 *Demonstrates the robot moving, detecting a pillar, classifying it as a cylinder, calculating its (x,y) position, and rendering a cylinder model on the web page at the correct position (rendering in progress).*
 
 #### Additional Demos
