@@ -159,7 +159,7 @@ cd lightweight-shape-classifier
 **For Software:**
 
 #### Screenshots
-![Training Output](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/trainingoutput.jpg)
+![Training Output](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/trainingoutput.png)
 *Shows the training process with dataset loading and accuracy (e.g., 0.990 for 900 images).*
 
 ![Hardware Setup](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/snapshot.jpg)
