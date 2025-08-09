@@ -181,12 +181,11 @@ cd lightweight-shape-classifier
 ### Project Demo
 
 #### Video
-[Demo Video Link](https://github.com/AaronBoshMacsimus/UseLessProj/bolb/main/raspberry pi ai demo.mp4)
+[Demo Video Link](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/raspberry pi ai demo.mp4)
 *Demonstrates the robot moving, detecting a pillar, classifying it as a cylinder, calculating its (x,y) position, and rendering a cylinder model on the web page at the correct position (rendering in progress).*
 
 #### Additional Demos
 - [Live Web Scene Replica](http://<web-server-ip>:5000): Real-time rendering of the scene with positioned models (work in progress).
-- [Feature Visualization Notebook](https://github.com/<your-username>/UseLessProj/feature_viz.ipynb): Jupyter notebook for analyzing shape and position features.
 
 ### Project Status
 The core classification model and position detection are complete, enabling the robot to identify shapes (e.g., pillars as cylinders) and their (x,y) coordinates. The web transmission of classification and position data is fully implemented. **Positioning and scene rendering with 3D models on the web page is ongoing**, with the Flask server set up to receive data and a placeholder HTML template for future model rendering (e.g., using Three.js).
