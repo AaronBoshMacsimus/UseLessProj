@@ -162,7 +162,8 @@ cd lightweight-shape-classifier
 ![Training Output](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/trainingoutput.png)
 *Shows the training process with dataset loading and accuracy (e.g., 0.990 for 900 images).*
 
-![Hardware Setup](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/snapshot.jpg)
+![Hardware Setup](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/raspsnap.png)
+
 *Shows the image captured using camera module.*
 
 ![Dataset Folder](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/datasets.jpg)
