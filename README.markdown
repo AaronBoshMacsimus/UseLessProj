@@ -32,9 +32,9 @@ We’ve unleashed a wobbly self-balancing robot armed with a camera and a brainy
   - Raspberry Pi Zero 2 W (for classification and position detection)
   - Raspberry Pi Camera Module v2 (8MP, for scene capture)
   - Self-balancing robot chassis with dual DC motors
-  - L298N motor driver
-  - MPU-6050 IMU (6-axis for balance control)
-  - 3.7V LiPo battery pack
+  - tb6612fng motor driver
+  - Gy-91 Sensor 
+  - 2 × 18650 battery
 - **Specifications**:
   - Raspberry Pi Zero 2 W: 512MB RAM, 1GHz quad-core CPU
   - Camera: 8MP, 640x480 resolution at 32 FPS
@@ -180,7 +180,7 @@ cd lightweight-shape-classifier
 
 #### Schematic & Circuit
 ![Circuit](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/UselessWrokImg.jpg)
-*Shows connections: Raspberry Pi Zero 2 W to Camera Module, L298N motor driver to DC motors, MPU-6050 IMU, and battery pack.*
+*Shows connections: Raspberry Pi Zero 2 W to Camera Module, tb6612fng motor driver to DC motors, GY-91 IMU, and 18650 battery pack.*
 
 ### Project Demo
 
