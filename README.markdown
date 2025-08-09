@@ -171,12 +171,6 @@ cd lightweight-shape-classifier
 ![Animation State](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/reactwebafterchangeinrequest.jpg)
 *Shows the animated state with purple rectangle moved to top-left and yellow circle repositioned during the interaction sequence.*
 
-![Web Scene Replica](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/filedir1.jpg)
-*Displays the Flask web page rendering a scene with a cylinder model at detected (x,y) coordinates (rendering work in progress).*
-
-![Position Detection](https://github.com/AaronBoshMacsimus/UseLessProj/filedir2.jpg)
-*Visualizes object detection and (x,y) centroid calculation for a pillar classified as a cylinder.*
-
 #### Diagrams
 ![Workflow](https://github.com/<your-username>/UseLessProj/blob/main/reactwebafterchangeinrequest.jpg)
 *Illustrates the pipeline: robot camera capture -> shape classification -> position detection -> web scene rendering with model folder.*
@@ -187,12 +181,10 @@ cd lightweight-shape-classifier
 ![Circuit](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/UselessWrokImg.jpg)
 *Shows connections: Raspberry Pi Zero 2 W to Camera Module, L298N motor driver to DC motors, MPU-6050 IMU, and battery pack.*
 
-
-
 ### Project Demo
 
 #### Video
-[Demo Video Link](https://github.com/<your-username>/UseLessProj/demo_video.mp4)
+[Demo Video Link](https://github.com/<your-username>/UseLessProj/bolb/main/raspberry pi ai demo.mp4)
 *Demonstrates the robot moving, detecting a pillar, classifying it as a cylinder, calculating its (x,y) position, and rendering a cylinder model on the web page at the correct position (rendering in progress).*
 
 #### Additional Demos
