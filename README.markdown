@@ -175,7 +175,7 @@ cd lightweight-shape-classifier
 **For Hardware:**
 
 #### Schematic & Circuit
-![Circuit](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/UselessWorkImg.jpg)
+![Circuit](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/UselessWrokImg.jpg)
 *Shows connections: Raspberry Pi Zero 2 W to Camera Module, L298N motor driver to DC motors, MPU-6050 IMU, and battery pack.*
 
 ![Schematic](https://github.com/AaronBoshMacsimus/UseLessProj/schematic_diagram.png)
