@@ -1,6 +1,6 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-#SELF BALANCING ROBOT WITH A MAGIC TWIST🎯
+SELF BALANCING ROBOT WITH A MAGIC TWIST🎯
 
 ## Basic Details
 
@@ -163,7 +163,7 @@ cd lightweight-shape-classifier
 *Shows the training process with dataset loading and accuracy (e.g., 0.990 for 900 images).*
 
 ![Hardware Setup](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/snapshot.jpg)
-*Shows the physical setup with Arduino/microcontroller, breadboard connections, and LED components for the project.*
+*Shows the image captured using camera module.*
 
 ![Dataset Folder](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/datasets.jpg)
 *Shows the cylinder dataset directory containing various image files including pixels_cylinder_shape, pixels_cylindrical_object, and synthetic_cylinder files used for training the model.*
