@@ -162,6 +162,15 @@ cd lightweight-shape-classifier
 ![Training Output](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/trainingoutput.png)
 *Shows the training process with dataset loading and accuracy (e.g., 0.990 for 900 images).*
 
+![Hardware Setup](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/snapshot.jpg)
+*Shows the physical setup with Arduino/microcontroller, breadboard connections, and LED components for the project.*
+
+![Initial State](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/reactwebbeforechangeinrequest.jpg)
+*Displays the web interface showing yellow circle and purple rectangle in their starting positions before collision detection.*
+
+![Animation State](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/reactwebafterchangeinrequest.jpg)
+*Shows the animated state with purple rectangle moved to top-left and yellow circle repositioned during the interaction sequence.*
+
 ![Web Scene Replica](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/filedir1.jpg)
 *Displays the Flask web page rendering a scene with a cylinder model at detected (x,y) coordinates (rendering work in progress).*
 
