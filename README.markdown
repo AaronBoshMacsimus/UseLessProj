@@ -162,7 +162,7 @@ cd lightweight-shape-classifier
 ![Training Output](https://github.com/AaronBoshMacsimus/UseLessProj/training_output.png)
 *Shows the training process with dataset loading and accuracy (e.g., 0.850 for 900 images).*
 
-![Web Scene Replica](https://github.com/AaronBoshMacsimus/UseLessProj/filedir1.jpg)
+![Web Scene Replica](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/filedir1.jpg)
 *Displays the Flask web page rendering a scene with a cylinder model at detected (x,y) coordinates (rendering work in progress).*
 
 ![Position Detection](https://github.com/AaronBoshMacsimus/UseLessProj/filedir2.jpg)
