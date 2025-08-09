@@ -188,7 +188,7 @@ cd lightweight-shape-classifier
 [Demo Video Link](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/rasberry%20pi%20ai%20demo.mp4)
 *Demonstrates the robot moving, detecting a pillar, classifying it as a cylinder, calculating its (x,y) position, and rendering a cylinder model on the web page at the correct position (rendering in progress).*
 
-[Self-Balancing Robot Demo](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/selfbalancingrobot.mp4)
+[Self-Balancing Robot Demo](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/selfbalancing%20robot.mp4)
 *Demonstrates the self-balancing robot maintaining upright position using gyroscope feedback and motor control adjustments to counteract tilting and achieve stable equilibrium.*
 
 #### Additional Demos
