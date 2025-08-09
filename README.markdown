@@ -191,6 +191,9 @@ cd lightweight-shape-classifier
 [Self-Balancing Robot Demo](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/selfbalancing%20robot.mp4)
 *Demonstrates the self-balancing robot maintaining upright position using gyroscope feedback and motor control adjustments to counteract tilting and achieve stable equilibrium.*
 
+[Stabilized Motion Video](https://github.com/AaronBoshMacsimus/UseLessProj/blob/main/stabilizedmotion.mp4)
+*Shows the robot's camera feed while in motion, demonstrating stabilized video capture and smooth movement despite the robot's self-balancing adjustments and locomotion.*
+
 #### Additional Demos
 - [Live Web Scene Replica](http://<web-server-ip>:5000): Real-time rendering of the scene with positioned models (work in progress).
 
