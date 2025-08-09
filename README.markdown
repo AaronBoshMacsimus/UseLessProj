@@ -169,7 +169,7 @@ cd lightweight-shape-classifier
 *Visualizes object detection and (x,y) centroid calculation for a pillar classified as a cylinder.*
 
 #### Diagrams
-![Workflow](https://github.com/<your-username>/UseLessProj/reactwebafterchangeinrequest.jpg)
+![Workflow](https://github.com/<your-username>/UseLessProj/blob/main/reactwebafterchangeinrequest.jpg)
 *Illustrates the pipeline: robot camera capture -> shape classification -> position detection -> web scene rendering with model folder.*
 
 **For Hardware:**
